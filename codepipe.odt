@@ -1,0 +1,12 @@
+Find out total monthly expense given individuals expense items?
+
+rent = 1220
+gas = 202.5
+groceries = 303.6
+print(rent)
+1220
+
+Total = rent + gas + groceries
+
+print(Total)
+1728.1
